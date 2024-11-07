@@ -12,7 +12,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  background: url('D:/git/quiz/public/start-banner.png') no-repeat center center;
+  background: url('../public/start-banner.png') no-repeat center center;
   background-size: cover;
 }
 
@@ -39,7 +39,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: url('D:/git/quiz/public/result-banner.png') no-repeat center center;
+  background: url('../public/result-banner.png') no-repeat center center;
   background-size: 100% 100%;
   color: white;
 }
